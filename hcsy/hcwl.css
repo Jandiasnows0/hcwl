@@ -20,6 +20,13 @@
 	visibility: hidden;
 	content: "";
  }
+ header .right .u1 li a{
+ 	text-derection:none;
+ 	color:black;
+ }
+ header .right .u1 li a:hover{
+ 	background-color:orange;
+ }
 /*头*/
  .top{
 	height: 110px;
