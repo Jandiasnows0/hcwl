@@ -21,11 +21,11 @@
 	content: "";
  }
  header .right .u1 li a{
- 	text-derection:none;
+ 	text-decoration:none;
  	color:black;
  }
  header .right .u1 li a:hover{
- 	background-color:orange;
+        color:orange;
  }
 /*头*/
  .top{
